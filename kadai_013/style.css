@@ -84,10 +84,9 @@ PC用のスタイル
     display: none;
   }
 
-  /* ハンバーガーメニューボタン */
+  /* ハンバーガーメニュー */
   #menu-sp {
     float: right;
-    padding: 0;
   }
 
   /* スマホ用ナビゲーション */
@@ -115,10 +114,6 @@ PC用のスタイル
     position: absolute;
     top: 20px;
     right: 20px;
-    padding: 0;
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
   }
 
   /* ナビゲーションメニュー用ロゴ */
@@ -158,13 +153,5 @@ PC用のスタイル
     background-image: url("images/arrow.png");
     background-repeat: no-repeat;
     background-position: right top;
-  }
-
-  #menu-sp {
-    float: right;
-    padding: 0;
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
   }
 }
