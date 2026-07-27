@@ -109,13 +109,6 @@ PC用のスタイル
     list-style: none;
   }
 
-  /* 閉じるボタン */
-  #close {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-  }
-
   /* ナビゲーションメニュー用ロゴ */
   #logo-sp {
     margin: 80px 0 30px 20px;
